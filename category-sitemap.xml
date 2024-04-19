@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/uncategorized</loc>
+		<loc>https://gudang.id/category/uncategorized</loc>
 		<lastmod>2023-10-11T17:04:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/konveyor</loc>
+		<loc>https://gudang.id/category/konveyor</loc>
 		<lastmod>2023-09-25T23:10:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/racking</loc>
+		<loc>https://gudang.id/category/racking</loc>
 		<lastmod>2023-09-29T11:18:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/pallet-mesh</loc>
+		<loc>https://gudang.id/category/pallet-mesh</loc>
 		<lastmod>2023-10-02T23:36:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/forklift</loc>
+		<loc>https://gudang.id/category/forklift</loc>
 		<lastmod>2023-09-26T22:15:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/hand-pallet</loc>
+		<loc>https://gudang.id/category/hand-pallet</loc>
 		<lastmod>2023-10-02T16:49:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/hand-stacker</loc>
+		<loc>https://gudang.id/category/hand-stacker</loc>
 		<lastmod>2023-10-02T09:52:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/platform-truck</loc>
+		<loc>https://gudang.id/category/platform-truck</loc>
 		<lastmod>2023-10-02T21:37:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/electric-cart</loc>
+		<loc>https://gudang.id/category/electric-cart</loc>
 		<lastmod>2023-10-01T16:20:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/tow-tractor</loc>
+		<loc>https://gudang.id/category/tow-tractor</loc>
 		<lastmod>2023-10-01T16:24:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/electric-puller</loc>
+		<loc>https://gudang.id/category/electric-puller</loc>
 		<lastmod>2023-10-02T20:06:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/high-lift</loc>
+		<loc>https://gudang.id/category/high-lift</loc>
 		<lastmod>2023-09-28T09:37:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/lift-table</loc>
+		<loc>https://gudang.id/category/lift-table</loc>
 		<lastmod>2023-10-02T12:08:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/reach-truck</loc>
+		<loc>https://gudang.id/category/reach-truck</loc>
 		<lastmod>2023-10-02T19:16:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/dock-leveler</loc>
+		<loc>https://gudang.id/category/dock-leveler</loc>
 		<lastmod>2023-10-02T23:36:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/mobile-ramp</loc>
+		<loc>https://gudang.id/category/mobile-ramp</loc>
 		<lastmod>2023-09-30T18:10:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/drum-lifter</loc>
+		<loc>https://gudang.id/category/drum-lifter</loc>
 		<lastmod>2023-10-04T07:12:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/drum-loader</loc>
+		<loc>https://gudang.id/category/drum-loader</loc>
 		<lastmod>2023-10-02T02:37:31+00:00</lastmod>
 	</url>
 </urlset>
